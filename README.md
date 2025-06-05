@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wiley</h1>
+<h1 align="center">Hi 👋, I'm Wy </h1>
 <h3 align="center">A passionate Technical Support from Philippines</h3>
 
 - 🔭 I’m currently working at **Zentist**
