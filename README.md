@@ -2,7 +2,7 @@
 <h3 align="center">Technical Support Engineer | ComSci Student | Based in the Philippines 🇵🇭</h3>
 
 <p align="center">
-  Passionate about technology, continuous learning, and solving real-world problems through code.
+  Exploring the world of tech while balancing work and learning — driven to grow one step at a time.
 </p>
 
 ---
